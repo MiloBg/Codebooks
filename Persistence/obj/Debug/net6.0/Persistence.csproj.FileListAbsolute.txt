@@ -1,0 +1,17 @@
+C:\Softfluency\Projects\Codebooks\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Softfluency\Projects\Codebooks\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Softfluency\Projects\Codebooks\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Softfluency\Projects\Codebooks\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Softfluency\Projects\Codebooks\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Softfluency\Projects\Codebooks\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Softfluency\Projects\Codebooks\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
